@@ -1,0 +1,16 @@
+execute at @s[scores={cmd=1}] run function djk:misc/getbook
+execute at @s[scores={cmd=8}] run function djk:tp/tptowp
+execute at @s[scores={cmd=9}] run function djk:tp/confsetwp
+execute at @s[scores={cmd=10}] run function djk:tp/setwp
+execute at @s[scores={cmd=11}] run function djk:vote/tsd
+execute at @s[scores={cmd=12}] run function djk:vote/tsn
+execute at @s[scores={cmd=13}] run function djk:vote/wc
+execute at @s[scores={cmd=14}] run function djk:vote/grmgt
+execute at @s[scores={cmd=15}] run function djk:vote/grmgf
+execute at @s[scores={cmd=16}] run function djk:vote/vote
+execute at @s[scores={cmd=20}] run function djk:misc/upgradebow
+execute at @s[scores={cmd=21}] run function djk:misc/checkupdate
+execute at @s[scores={cmd=22}] run function djk:misc/bottlexp
+execute at @s[scores={cmd=30}] run function djk:misc/checklonghastepotion
+execute at @s[scores={cmd=31}] run function djk:misc/checkstronghastepotion
+scoreboard players set @s cmd 0

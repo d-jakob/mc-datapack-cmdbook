@@ -1,0 +1,1 @@
+/give DJKhaos minecraft:potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:3,Duration:1200}],display:{Name:"{\"text\":\"Potion of Haste\",\"italic\":false}"}}

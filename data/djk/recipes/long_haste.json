@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:sugar"
+		},
+		{
+			"item": "minecraft:blaze_powder"
+		},
+		{
+			"item": "minecraft:experience_bottle"
+		},
+		{
+			"item": "minecraft:redstone"
+		}
+	],
+	"result": {
+		"item": "minecraft:potion",
+		"count": 1
+		"tag": "{Potion:\"minecraft:water\",CustomPotionEffects:[{Id:3,Duration:9600}],display:{Name:\"{\"text\":\"Potion of Haste\",\"italic\":false}\"}}"
+	}
+}

@@ -1,0 +1,1 @@
+execute as @e[type=item,distance=..10,limit=1,nbt={Item:{id:"minecraft:bow"}}] if entity @e[type=item,distance=..10,nbt={Item:{id:"minecraft:netherite_ingot",Count:1b}}] if entity @e[type=item,distance=..10,nbt={Item:{id:"minecraft:enchanted_book",Count:1b,tag:{StoredEnchantments:[{lvl:1s,id:"minecraft:mending"}]}}}] run function djk:misc/doupgradebow
