@@ -7,4 +7,6 @@ scoreboard objectives add z dummy
 scoreboard objectives add cmdsel dummy
 scoreboard objectives add level level
 
+forceload add 0 0
+
 scoreboard players set vote count 0
