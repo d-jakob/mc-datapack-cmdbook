@@ -9,7 +9,9 @@ scoreboard objectives add level level
 scoreboard objectives add currency dummy
 scoreboard objectives add cursel dummy
 scoreboard objectives add curtmp dummy
+scoreboard objectives add value dummy
 
 forceload add 0 0
 
 scoreboard players set vote count 0
+scoreboard players set #10 value 10
