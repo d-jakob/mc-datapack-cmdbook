@@ -13,4 +13,17 @@ execute at @s[scores={cmd=21}] run function djk:misc/checkupdate
 execute at @s[scores={cmd=22}] run function djk:misc/bottlexp
 execute at @s[scores={cmd=30}] run function djk:misc/checklonghastepotion
 execute at @s[scores={cmd=31}] run function djk:misc/checkstronghastepotion
+execute at @s[scores={cmd=40}] run function djk:currency/deposit
+execute at @s[scores={cmd=41}] run function djk:currency/withdrawsel
+execute at @s[scores={cmd=42}] run function djk:currency/withdraw
+execute at @s[scores={cmd=50}] run function djk:currency/curselsetdigit/0
+execute at @s[scores={cmd=51}] run function djk:currency/curselsetdigit/1
+execute at @s[scores={cmd=52}] run function djk:currency/curselsetdigit/2
+execute at @s[scores={cmd=53}] run function djk:currency/curselsetdigit/3
+execute at @s[scores={cmd=54}] run function djk:currency/curselsetdigit/4
+execute at @s[scores={cmd=55}] run function djk:currency/curselsetdigit/5
+execute at @s[scores={cmd=56}] run function djk:currency/curselsetdigit/6
+execute at @s[scores={cmd=57}] run function djk:currency/curselsetdigit/7
+execute at @s[scores={cmd=58}] run function djk:currency/curselsetdigit/8
+execute at @s[scores={cmd=59}] run function djk:currency/curselsetdigit/9
 scoreboard players set @s cmd 0
