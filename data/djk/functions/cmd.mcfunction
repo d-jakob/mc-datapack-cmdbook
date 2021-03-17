@@ -13,9 +13,10 @@ execute at @s[scores={cmd=21}] run function djk:misc/checkupdate
 execute at @s[scores={cmd=22}] run function djk:misc/bottlexp
 execute at @s[scores={cmd=30}] run function djk:misc/checklonghastepotion
 execute at @s[scores={cmd=31}] run function djk:misc/checkstronghastepotion
-execute at @s[scores={cmd=40}] run function djk:currency/deposit
-execute at @s[scores={cmd=41}] run function djk:currency/withdrawsel
-execute at @s[scores={cmd=42}] run function djk:currency/withdraw
+execute at @s[scores={cmd=40}] run function djk:currency/bank
+execute at @s[scores={cmd=41}] run function djk:currency/withdraw
+execute at @s[scores={cmd=42}] run function djk:currency/confdeposit
+execute at @s[scores={cmd=43}] run function djk:currency/deposit
 execute at @s[scores={cmd=50}] run function djk:currency/curselsetdigit/0
 execute at @s[scores={cmd=51}] run function djk:currency/curselsetdigit/1
 execute at @s[scores={cmd=52}] run function djk:currency/curselsetdigit/2
