@@ -1,2 +1,2 @@
-scoreboard players operation @s cursel *= #10 value
+scoreboard players set @s cursel 0
 title @s actionbar {score:{name:@s,objective:cursel}}
