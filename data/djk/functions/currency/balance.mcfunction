@@ -1,1 +1,1 @@
-title @s actionbar {"score":{"name":"@s","objective":"currency"}}
+title @s actionbar ["",{"text":"balance: "},{"score":{"name":"@s","objective":"currency"}}]
