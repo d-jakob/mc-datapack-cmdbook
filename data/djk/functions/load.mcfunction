@@ -25,7 +25,7 @@ scoreboard objectives add sxp dummy
 scoreboard objectives add food food
 scoreboard objectives add lfood dummy
 scoreboard objectives add sfood dummy
-scoreboard onjectives add kills totalKillCount
+scoreboard objectives add kills totalKillCount
 scoreboard objectives add slot dummy
 scoreboard objectives add lslot dummy
 scoreboard objectives add sslot dummy
