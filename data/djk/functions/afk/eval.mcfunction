@@ -1,1 +1,1 @@
-execute store success score @s afk if score @s afkscore matches 2..
+execute store success score @s afk unless score @s afkscore matches 2..
