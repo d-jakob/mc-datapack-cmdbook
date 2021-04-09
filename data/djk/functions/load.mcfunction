@@ -32,6 +32,9 @@ scoreboard objectives add sslot dummy
 scoreboard objectives add afk dummy
 scoreboard objectives add afkscore dummy
 
+scoreboard objectives add cd dummy
+scoreboard objectives add spell dummy
+
 forceload add 0 0
 
 scoreboard players set vote count 0
