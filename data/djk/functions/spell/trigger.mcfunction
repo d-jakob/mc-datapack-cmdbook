@@ -1,3 +1,4 @@
-execute if score @s spell matches 1 run function djk:spell/creeping_frost/cd
-execute if score @s spell matches 2 run function djk:spell/blink/cd
-#check for tag then execute spell function
+execute unless data entity @s Item.tag run tag @s add tracked
+execute if data entity @s Item.tag.creeping_frost run function djk:spell/creeping_frost/trigger
+execute if data entity @s Item.tag.blink run function djk:spell/blink/trigger
+execute as @s[tag=!tracked] run kill @s
