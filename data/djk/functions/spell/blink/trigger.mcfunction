@@ -1,1 +1,1 @@
-execute as @p run tp ^ ^ ^10
+execute as @p at @s run tp ^ ^ ^10
