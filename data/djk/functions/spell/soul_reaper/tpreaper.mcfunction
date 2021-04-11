@@ -1,2 +1,2 @@
-tp @s @e[type=!minecraft:item, tag=soul_reaper, limit=1, sort=nearest, distance=..3]
+tp @s @e[type=!minecraft:armor_stand, tag=soul_reaper, limit=1, sort=nearest, distance=..3]
 tp ~ ~2 ~
