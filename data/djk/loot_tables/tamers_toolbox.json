@@ -10,7 +10,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{display:{Name:"{\"text\":\"Blink\", \"color\":\"light_purple\"}"}, blink:1}"
+							"tag": "{display:{Name:\"{\\\"text\\\":\\\"Blink\\\", \\\"color\\\":\\\"light_purple\\\"}\"}, blink:1}"
 						}
 					]
 				},
