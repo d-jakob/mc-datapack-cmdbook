@@ -77,7 +77,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:llama_spawn_egg",
-					"weight": 50
+					"weight": 20
 				},
 				{
 					"type": "item",
@@ -97,7 +97,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:panda_spawn_egg",
-					"weight": 50
+					"weight": 20
 				},
 				{
 					"type": "item",
@@ -152,7 +152,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:turtle_spawn_egg",
-					"weight": 50
+					"weight": 20
 				},
 				{
 					"type": "item",
