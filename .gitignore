@@ -1,3 +1,6 @@
-#Archives
+# Archives
 *.zip
 *.tar.gz
+*.tgz
+*.tar.zst
+*.tzst
